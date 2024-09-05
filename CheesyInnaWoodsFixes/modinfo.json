@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "CheesyInnaWoodFixes",
+    "name": "CheesyInnaWoodFixes",
+    "authors": [ "CheeseAlmighty" ],
+    "description": "CheesyInnaWoodFixes adding additional useful innawoods content.",
+    "version": "BN version, update 7/27/2024",
+    "category": "items",
+    "dependencies": [ "bn" ]
+  }
+]
